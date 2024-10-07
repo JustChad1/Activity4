@@ -3,3 +3,9 @@ for (let i = 1; i < 11; i++) {
         console.log(i);
     }
 }
+// OUTPUT
+//2
+//4
+//6
+//8
+//10
